@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" style="border-radius:12px;" alt="Flutter Dev"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" style="border-radius:12px;" alt="Flutter Dev"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D47A1,100:0a0a1a&height=2"/>
