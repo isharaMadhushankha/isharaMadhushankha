@@ -304,17 +304,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isharaMadhushankha&theme=tokyo-night&hide_border=true&area=true&custom_title=Ishara's%20Contribution%20Graph&area_color=1565C0&line=42A5F5&point=ffffff&bg_color=0a0a1a" width="95%" alt="Contribution Graph"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isharaMadhushankha/isharaMadhushankha/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isharaMadhushankha/isharaMadhushankha/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isharaMadhushankha/isharaMadhushankha/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
+
 
 ---
 
